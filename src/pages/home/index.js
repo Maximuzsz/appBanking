@@ -25,6 +25,13 @@ const list = [
         value: '7.280.89',
         date: '17/09/2022',
         type: 1 // receitas/entradas
+    },
+    {
+      id: 4,
+      label: 'Boleto  internet',
+      value: '120,00',
+      date: '17/09/2022',
+      type: 0 // despesas
     }
 
 ]
