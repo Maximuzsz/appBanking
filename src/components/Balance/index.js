@@ -1,6 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
-import { MotiView, MotiText } from "moti";
+import { StyleSheet, Text, View } from "react-native";
 
 export default function Balance({saldo, gastos}){
     return(
@@ -25,9 +24,6 @@ export default function Balance({saldo, gastos}){
                     </Text>
                 </View>
             </View>
-
-
-
 
         </View>
     );

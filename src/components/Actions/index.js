@@ -1,6 +1,6 @@
-import React, {useState} from "react";
-import { StyleSheet, Text, View, TouchableOpacity, ScrollView} from 'react-native';
-import {AntDesign} from '@expo/vector-icons';
+import { AntDesign } from '@expo/vector-icons';
+import React from "react";
+import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 
 
